@@ -1,4 +1,4 @@
-During week 13 of UTSA's Coding Bootcamp, we were given a directive of creating a Progressive Web Applications (PWA) Challenge: Budget Tracker for an avid traveler who wants to be able to track withdrawls and deposits with or without data/internet connection. There were a number of requirements to meet, such as:
+During week 19 of UTSA's Coding Bootcamp, we were given a directive of creating a Progressive Web Applications (PWA) Challenge: Budget Tracker for an avid traveler who wants to be able to track withdrawls and deposits with or without data/internet connection. There were a number of requirements to meet, such as:
 
 GIVEN a budget tracker without an internet connection
 WHEN the user inputs an expense or deposit
@@ -12,4 +12,5 @@ You can find my repo code here: https://github.com/amhernandez1163/pwa-budget-19
 Heroku Deployed App (wip): https://fierce-everglades-62175.herokuapp.com/
 
 ![Screenshot of Working Application-One](./public/assests/images/trasaction-saved.jpg)
+
 ![Screenshot of Working Application-One](./public/assests/images/transaction-posted.jpg)
