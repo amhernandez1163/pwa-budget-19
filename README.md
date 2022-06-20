@@ -9,7 +9,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 We were provided starter code from @Xandromus's coding bootcamp repo: https://github.com/coding-boot-camp/symmetrical-bassoon. All other coding was done by me in VS Code and saved in GitHub and deployed to Heroku.
 
 You can find my repo code here: https://github.com/amhernandez1163/pwa-budget-19
-Heroku Deployed App (wip): https://fierce-everglades-62175.herokuapp.com/
+Heroku Deployed App: https://fierce-everglades-62175.herokuapp.com/
 
 ![Screenshot of Working Application-One](./public/assests/images/trasaction-saved.jpg)
 
